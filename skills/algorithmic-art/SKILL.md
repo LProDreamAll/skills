@@ -5,6 +5,7 @@ license: Complete terms in LICENSE.txt
 ---
 Algorithmics philosophies are computational aesthetic movements that are then expressed through code. Output .md files (philosophy), .html files (interactive viewer), and .js files (generative algorithms).
 
+
 This happens in two steps:
 
 1. Algorithmic Philosophy Creation (.md file)
